@@ -1,0 +1,6 @@
+**/*build
+
+# Ignore .orig files from `git mergetool`.
+**/*.orig
+
+**/*.DS_Store

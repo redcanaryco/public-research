@@ -1,4 +1,4 @@
-<p><img src="./logo.png" width="300px" /></p>
+<p><img src="./logo.png" width="100px" /></p>
 
 # Public Research
 

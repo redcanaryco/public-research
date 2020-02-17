@@ -1,8 +1,12 @@
-![alt text](./logo.png "Red Canary")
+<p><img src="./logo.png" width="300px" /></p>
 
+# Public Research
 
-# Red Canary Public Research
+Welcome to Red Canary's public research repository!
 
-Welcome to the Red Canary public research repository! We will be contributing
-on a variety of malicious software techniques. Each directory will focus on a
-different topic.
+# Table of Contents
+
+### Heaven's Gate for Linux
+
+https://github.com/redcanaryco/public-research/tree/master/heavens_gate
+

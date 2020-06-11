@@ -1,0 +1,5533 @@
+---
+- id: 846
+  name: ".bash_profile and .bashrc"
+  link: https://attack.mitre.org/techniques/T1156
+  technique_identifier: T1156
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 882
+  name: DLL Search Order Hijacking
+  link: https://attack.mitre.org/techniques/T1038
+  technique_identifier: T1038
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020: 8
+  technique_detail_link: https://redcanary.com/threat-detection-report/techniques/dll-search-order-hijacking/
+- id: 850
+  name: Account Manipulation
+  link: https://attack.mitre.org/techniques/T1098
+  technique_identifier: T1098
+  source: mitre_attack
+  ranking_2019: 59
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1195
+  name: AppCert DLLs
+  link: https://attack.mitre.org/techniques/T1182
+  technique_identifier: T1182
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1026
+  name: Analyze architecture and configuration posture
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1065
+  technique_identifier: PRE-T1065
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 851
+  name: AppInit DLLs
+  link: https://attack.mitre.org/techniques/T1103
+  technique_identifier: T1103
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1011
+  name: Windows Management Instrumentation
+  link: https://attack.mitre.org/techniques/T1047
+  technique_identifier: T1047
+  source: mitre_attack
+  ranking_2019: 18
+  source_type: enterprise
+  ranking_2020: 13
+  technique_detail_link: https://redcanary.com/threat-detection-report/techniques/windows-management-instrumentation/
+- id: 853
+  name: Application Deployment Software
+  link: https://attack.mitre.org/techniques/T1017
+  technique_identifier: T1017
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1237
+  name: Spearphishing Attachment
+  link: https://attack.mitre.org/techniques/T1193
+  technique_identifier: T1193
+  source: mitre_attack
+  ranking_2019: 14
+  source_type: enterprise
+  ranking_2020: 20
+  technique_detail_link: https://redcanary.com/threat-detection-report/techniques/spearphishing-attachment/
+- id: 855
+  name: Application Window Discovery
+  link: https://attack.mitre.org/techniques/T1010
+  technique_identifier: T1010
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1031
+  name: Analyze organizational skillsets and deficiencies
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1077
+  technique_identifier: PRE-T1077
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1184
+  name: Unconditional client-side exploitation/Injected Website/Driveby
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1149
+  technique_identifier: PRE-T1149
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 859
+  name: Automated Exfiltration
+  link: https://attack.mitre.org/techniques/T1020
+  technique_identifier: T1020
+  source: mitre_attack
+  ranking_2019: 57
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1027
+  name: Analyze business processes
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1078
+  technique_identifier: PRE-T1078
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1028
+  name: Analyze data collected
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1064
+  technique_identifier: PRE-T1064
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1029
+  name: Analyze hardware/software security defensive capabilities
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1071
+  technique_identifier: PRE-T1071
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1030
+  name: Analyze organizational skillsets and deficiencies
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1066
+  technique_identifier: PRE-T1066
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 860
+  name: Bash History
+  link: https://attack.mitre.org/techniques/T1139
+  technique_identifier: T1139
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 861
+  name: Binary Padding
+  link: https://attack.mitre.org/techniques/T1009
+  technique_identifier: T1009
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1215
+  name: Browser Bookmark Discovery
+  link: https://attack.mitre.org/techniques/T1217
+  technique_identifier: T1217
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 862
+  name: Bootkit
+  link: https://attack.mitre.org/techniques/T1067
+  technique_identifier: T1067
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020: 74
+  technique_detail_link:
+- id: 1032
+  name: Analyze organizational skillsets and deficiencies
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1074
+  technique_identifier: PRE-T1074
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1196
+  name: Browser Extensions
+  link: https://attack.mitre.org/techniques/T1176
+  technique_identifier: T1176
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1010
+  name: Windows Admin Shares
+  link: https://attack.mitre.org/techniques/T1077
+  technique_identifier: T1077
+  source: mitre_attack
+  ranking_2019: 22
+  source_type: enterprise
+  ranking_2020: 3
+  technique_detail_link: https://redcanary.com/threat-detection-report/techniques/windows-admin-shares/
+- id: 865
+  name: Change Default File Association
+  link: https://attack.mitre.org/techniques/T1042
+  technique_identifier: T1042
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 867
+  name: Clipboard Data
+  link: https://attack.mitre.org/techniques/T1115
+  technique_identifier: T1115
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1248
+  name: Cloud Instance Metadata API
+  link: https://attack.mitre.org/techniques/T1522
+  technique_identifier: T1522
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1101
+  name: Dynamic DNS
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1110
+  technique_identifier: PRE-T1110
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1249
+  name: Cloud Service Dashboard
+  link: https://attack.mitre.org/techniques/T1538
+  technique_identifier: T1538
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1250
+  name: Cloud Service Discovery
+  link: https://attack.mitre.org/techniques/T1526
+  technique_identifier: T1526
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 868
+  name: Code Signing
+  link: https://attack.mitre.org/techniques/T1116
+  technique_identifier: T1116
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 869
+  name: Command-Line Interface
+  link: https://attack.mitre.org/techniques/T1059
+  technique_identifier: T1059
+  source: mitre_attack
+  ranking_2019: 3
+  source_type: enterprise
+  ranking_2020: 21
+  technique_detail_link:
+- id: 975
+  name: Scripting
+  link: https://attack.mitre.org/techniques/T1064
+  technique_identifier: T1064
+  source: mitre_attack
+  ranking_2019: 2
+  source_type: enterprise
+  ranking_2020: 7
+  technique_detail_link: https://redcanary.com/threat-detection-report/techniques/scripting/
+- id: 871
+  name: Communication Through Removable Media
+  link: https://attack.mitre.org/techniques/T1092
+  technique_identifier: T1092
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1251
+  name: Compile After Delivery
+  link: https://attack.mitre.org/techniques/T1500
+  technique_identifier: T1500
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1065
+  name: Conduct social engineering
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1026
+  technique_identifier: PRE-T1026
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 872
+  name: Component Firmware
+  link: https://attack.mitre.org/techniques/T1109
+  technique_identifier: T1109
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1217
+  name: Control Panel Items
+  link: https://attack.mitre.org/techniques/T1196
+  technique_identifier: T1196
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 875
+  name: Create Account
+  link: https://attack.mitre.org/techniques/T1136
+  technique_identifier: T1136
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1253
+  name: Credentials from Web Browsers
+  link: https://attack.mitre.org/techniques/T1503
+  technique_identifier: T1503
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1218
+  name: Credentials in Registry
+  link: https://attack.mitre.org/techniques/T1214
+  technique_identifier: T1214
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 880
+  name: Custom Cryptographic Protocol
+  link: https://attack.mitre.org/techniques/T1024
+  technique_identifier: T1024
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1234
+  name: SIP and Trust Provider Hijacking
+  link: https://attack.mitre.org/techniques/T1198
+  technique_identifier: T1198
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1169
+  name: Spear phishing messages with malicious attachments
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1144
+  technique_identifier: PRE-T1144
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1219
+  name: DCShadow
+  link: https://attack.mitre.org/techniques/T1207
+  technique_identifier: T1207
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 883
+  name: DLL Side-Loading
+  link: https://attack.mitre.org/techniques/T1073
+  technique_identifier: T1073
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 886
+  name: Data Encrypted
+  link: https://attack.mitre.org/techniques/T1022
+  technique_identifier: T1022
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1033
+  name: Analyze presence of outsourced capabilities
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1080
+  technique_identifier: PRE-T1080
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1220
+  name: Data from Information Repositories
+  link: https://attack.mitre.org/techniques/T1213
+  technique_identifier: T1213
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 891
+  name: Data from Network Shared Drive
+  link: https://attack.mitre.org/techniques/T1039
+  technique_identifier: T1039
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 892
+  name: Data from Removable Media
+  link: https://attack.mitre.org/techniques/T1025
+  technique_identifier: T1025
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1185
+  name: Untargeted client-side exploitation
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1147
+  technique_identifier: PRE-T1147
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 894
+  name: Disabling Security Tools
+  link: https://attack.mitre.org/techniques/T1089
+  technique_identifier: T1089
+  source: mitre_attack
+  ranking_2019: 10
+  source_type: enterprise
+  ranking_2020: 10
+  technique_detail_link: https://redcanary.com/threat-detection-report/techniques/disabling-security-tools/
+- id: 1109
+  name: Hardware or software supply chain implant
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1142
+  technique_identifier: PRE-T1142
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1259
+  name: Disk Structure Wipe
+  link: https://attack.mitre.org/techniques/T1487
+  technique_identifier: T1487
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1198
+  name: Domain Fronting
+  link: https://attack.mitre.org/techniques/T1172
+  technique_identifier: T1172
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1260
+  name: Domain Generation Algorithms
+  link: https://attack.mitre.org/techniques/T1483
+  technique_identifier: T1483
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1034
+  name: Analyze social and business relationships, interests, and affiliations
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1072
+  technique_identifier: PRE-T1072
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1035
+  name: Anonymity services
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1083
+  technique_identifier: PRE-T1083
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1221
+  name: Drive-by Compromise
+  link: https://attack.mitre.org/techniques/T1189
+  technique_identifier: T1189
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1261
+  name: Domain Trust Discovery
+  link: https://attack.mitre.org/techniques/T1482
+  technique_identifier: T1482
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020: 9
+  technique_detail_link: https://redcanary.com/threat-detection-report/techniques/domain-trust-discovery/
+- id: 895
+  name: Dylib Hijacking
+  link: https://attack.mitre.org/techniques/T1157
+  technique_identifier: T1157
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1036
+  name: Assess KITs/KIQs benefits
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1006
+  technique_identifier: PRE-T1006
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1262
+  name: Elevated Execution with Prompt
+  link: https://attack.mitre.org/techniques/T1514
+  technique_identifier: T1514
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 896
+  name: Email Collection
+  link: https://attack.mitre.org/techniques/T1114
+  technique_identifier: T1114
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1263
+  name: Emond
+  link: https://attack.mitre.org/techniques/T1519
+  technique_identifier: T1519
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1265
+  name: Execution Guardrails
+  link: https://attack.mitre.org/techniques/T1480
+  technique_identifier: T1480
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1037
+  name: Assess current holdings, needs, and wants
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1013
+  technique_identifier: PRE-T1013
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1038
+  name: Assess leadership areas of interest
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1001
+  technique_identifier: PRE-T1001
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 897
+  name: Execution through API
+  link: https://attack.mitre.org/techniques/T1106
+  technique_identifier: T1106
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 899
+  name: Exfiltration Over Alternative Protocol
+  link: https://attack.mitre.org/techniques/T1048
+  technique_identifier: T1048
+  source: mitre_attack
+  ranking_2019: 46
+  source_type: enterprise
+  ranking_2020: 34
+  technique_detail_link:
+- id: 1124
+  name: Identify security defensive capabilities
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1040
+  technique_identifier: PRE-T1040
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 902
+  name: Exfiltration Over Physical Medium
+  link: https://attack.mitre.org/techniques/T1052
+  technique_identifier: T1052
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1224
+  name: Exploitation for Credential Access
+  link: https://attack.mitre.org/techniques/T1212
+  technique_identifier: T1212
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1225
+  name: Exploitation for Defense Evasion
+  link: https://attack.mitre.org/techniques/T1211
+  technique_identifier: T1211
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 903
+  name: Exploitation for Privilege Escalation
+  link: https://attack.mitre.org/techniques/T1068
+  technique_identifier: T1068
+  source: mitre_attack
+  ranking_2019: 27
+  source_type: enterprise
+  ranking_2020: 112
+  technique_detail_link:
+- id: 1226
+  name: Exploitation of Remote Services
+  link: https://attack.mitre.org/techniques/T1210
+  technique_identifier: T1210
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 904
+  name: External Remote Services
+  link: https://attack.mitre.org/techniques/T1133
+  technique_identifier: T1133
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1200
+  name: Extra Window Memory Injection
+  link: https://attack.mitre.org/techniques/T1181
+  technique_identifier: T1181
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 905
+  name: Fallback Channels
+  link: https://attack.mitre.org/techniques/T1008
+  technique_identifier: T1008
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 907
+  name: File System Logical Offsets
+  link: https://attack.mitre.org/techniques/T1006
+  technique_identifier: T1006
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 906
+  name: File Deletion
+  link: https://attack.mitre.org/techniques/T1107
+  technique_identifier: T1107
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020: 45
+  technique_detail_link:
+- id: 908
+  name: File System Permissions Weakness
+  link: https://attack.mitre.org/techniques/T1044
+  technique_identifier: T1044
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1267
+  name: Firmware Corruption
+  link: https://attack.mitre.org/techniques/T1495
+  technique_identifier: T1495
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1201
+  name: Forced Authentication
+  link: https://attack.mitre.org/techniques/T1187
+  technique_identifier: T1187
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 909
+  name: File and Directory Discovery
+  link: https://attack.mitre.org/techniques/T1083
+  technique_identifier: T1083
+  source: mitre_attack
+  ranking_2019: 38
+  source_type: enterprise
+  ranking_2020: 36
+  technique_detail_link:
+- id: 1039
+  name: Assess opportunities created by business deals
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1076
+  technique_identifier: PRE-T1076
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 911
+  name: Graphical User Interface
+  link: https://attack.mitre.org/techniques/T1061
+  technique_identifier: T1061
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1268
+  name: Group Policy Modification
+  link: https://attack.mitre.org/techniques/T1484
+  technique_identifier: T1484
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1040
+  name: Assess security posture of physical locations
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1079
+  technique_identifier: PRE-T1079
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1041
+  name: Assess targeting options
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1073
+  technique_identifier: PRE-T1073
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 912
+  name: HISTCONTROL
+  link: https://attack.mitre.org/techniques/T1148
+  technique_identifier: T1148
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1227
+  name: Hardware Additions
+  link: https://attack.mitre.org/techniques/T1200
+  technique_identifier: T1200
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 914
+  name: Hidden Users
+  link: https://attack.mitre.org/techniques/T1147
+  technique_identifier: T1147
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 947
+  name: Office Application Startup
+  link: https://attack.mitre.org/techniques/T1137
+  technique_identifier: T1137
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020: 83
+  technique_detail_link:
+- id: 1155
+  name: Proxy/protocol relays
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1081
+  technique_identifier: PRE-T1081
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 915
+  name: Hidden Window
+  link: https://attack.mitre.org/techniques/T1143
+  technique_identifier: T1143
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1202
+  name: Hooking
+  link: https://attack.mitre.org/techniques/T1179
+  technique_identifier: T1179
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 916
+  name: Hypervisor
+  link: https://attack.mitre.org/techniques/T1062
+  technique_identifier: T1062
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1269
+  name: Implant Container Image
+  link: https://attack.mitre.org/techniques/T1525
+  technique_identifier: T1525
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 917
+  name: Indicator Blocking
+  link: https://attack.mitre.org/techniques/T1054
+  technique_identifier: T1054
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1161
+  name: Research relevant vulnerabilities/CVEs
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1068
+  technique_identifier: PRE-T1068
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 918
+  name: Indicator Removal from Tools
+  link: https://attack.mitre.org/techniques/T1066
+  technique_identifier: T1066
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1228
+  name: Indirect Command Execution
+  link: https://attack.mitre.org/techniques/T1202
+  technique_identifier: T1202
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 920
+  name: Input Capture
+  link: https://attack.mitre.org/techniques/T1056
+  technique_identifier: T1056
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1022
+  name: Acquire or compromise 3rd party signing certificates
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1109
+  technique_identifier: PRE-T1109
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1271
+  name: Internal Spearphishing
+  link: https://attack.mitre.org/techniques/T1534
+  technique_identifier: T1534
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 921
+  name: Input Prompt
+  link: https://attack.mitre.org/techniques/T1141
+  technique_identifier: T1141
+  source: mitre_attack
+  ranking_2019: 63
+  source_type: enterprise
+  ranking_2020: 82
+  technique_detail_link:
+- id: 1186
+  name: Upload, install, and configure software/tools
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1139
+  technique_identifier: PRE-T1139
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1187
+  name: Use multiple DNS infrastructures
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1104
+  technique_identifier: PRE-T1104
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1042
+  name: Assess vulnerability of 3rd party vendors
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1075
+  technique_identifier: PRE-T1075
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1043
+  name: Assign KITs, KIQs, and/or intelligence requirements
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1015
+  technique_identifier: PRE-T1015
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1044
+  name: Assign KITs/KIQs into categories
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1005
+  technique_identifier: PRE-T1005
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1045
+  name: Authentication attempt
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1158
+  technique_identifier: PRE-T1158
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1047
+  name: Automated system performs requested action
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1161
+  technique_identifier: PRE-T1161
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1048
+  name: Build and configure delivery systems
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1124
+  technique_identifier: PRE-T1124
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1049
+  name: Build or acquire exploits
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1126
+  technique_identifier: PRE-T1126
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1050
+  name: Build social network persona
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1118
+  technique_identifier: PRE-T1118
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1051
+  name: Buy domain name
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1105
+  technique_identifier: PRE-T1105
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1052
+  name: C2 protocol development
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1129
+  technique_identifier: PRE-T1129
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1053
+  name: Choose pre-compromised mobile app developer account credentials or signing
+    keys
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1168
+  technique_identifier: PRE-T1168
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1054
+  name: Choose pre-compromised persona and affiliated accounts
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1120
+  technique_identifier: PRE-T1120
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1055
+  name: Common, high volume protocols and software
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1098
+  technique_identifier: PRE-T1098
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1056
+  name: Compromise 3rd party infrastructure to support delivery
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1089
+  technique_identifier: PRE-T1089
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1057
+  name: Compromise 3rd party infrastructure to support delivery
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1111
+  technique_identifier: PRE-T1111
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1058
+  name: Compromise 3rd party or closed-source vulnerability/exploit information
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1131
+  technique_identifier: PRE-T1131
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1059
+  name: Compromise of externally facing system
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1165
+  technique_identifier: PRE-T1165
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1060
+  name: Conduct active scanning
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1031
+  technique_identifier: PRE-T1031
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1061
+  name: Conduct cost/benefit analysis
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1003
+  technique_identifier: PRE-T1003
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1062
+  name: Conduct passive scanning
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1030
+  technique_identifier: PRE-T1030
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1063
+  name: Conduct social engineering
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1045
+  technique_identifier: PRE-T1045
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1064
+  name: Conduct social engineering
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1056
+  technique_identifier: PRE-T1056
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1024
+  name: Aggregate individual's digital footprint
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1052
+  technique_identifier: PRE-T1052
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1067
+  name: Confirmation of launched compromise achieved
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1160
+  technique_identifier: PRE-T1160
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1068
+  name: Create backup infrastructure
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1116
+  technique_identifier: PRE-T1116
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1069
+  name: Create custom payloads
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1122
+  technique_identifier: PRE-T1122
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1070
+  name: Create implementation plan
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1009
+  technique_identifier: PRE-T1009
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1071
+  name: Create infected removable media
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1132
+  technique_identifier: PRE-T1132
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1072
+  name: Create strategic plan
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1008
+  technique_identifier: PRE-T1008
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1073
+  name: Credential pharming
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1151
+  technique_identifier: PRE-T1151
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1074
+  name: DNS poisoning
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1159
+  technique_identifier: PRE-T1159
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1075
+  name: DNSCalc
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1101
+  technique_identifier: PRE-T1101
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1076
+  name: Data Hiding
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1097
+  technique_identifier: PRE-T1097
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1077
+  name: Deploy exploit using advertising
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1157
+  technique_identifier: PRE-T1157
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1078
+  name: Derive intelligence requirements
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1007
+  technique_identifier: PRE-T1007
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1080
+  name: Determine 3rd party infrastructure services
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1037
+  technique_identifier: PRE-T1037
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1079
+  name: Determine 3rd party infrastructure services
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1061
+  technique_identifier: PRE-T1061
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1081
+  name: Determine approach/attack vector
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1022
+  technique_identifier: PRE-T1022
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1082
+  name: Determine centralization of IT management
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1062
+  technique_identifier: PRE-T1062
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1083
+  name: Determine domain and IP address space
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1027
+  technique_identifier: PRE-T1027
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1084
+  name: Determine external network trust dependencies
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1036
+  technique_identifier: PRE-T1036
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1085
+  name: Determine firmware version
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1035
+  technique_identifier: PRE-T1035
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1086
+  name: Determine highest level tactical element
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1020
+  technique_identifier: PRE-T1020
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1088
+  name: Determine physical locations
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1059
+  technique_identifier: PRE-T1059
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1089
+  name: Determine secondary level tactical element
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1021
+  technique_identifier: PRE-T1021
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1090
+  name: Determine strategic target
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1018
+  technique_identifier: PRE-T1018
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1091
+  name: Develop KITs/KIQs
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1004
+  technique_identifier: PRE-T1004
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1092
+  name: Develop social network persona digital footprint
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1119
+  technique_identifier: PRE-T1119
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1093
+  name: Discover new exploits and monitor exploit-provider forums
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1127
+  technique_identifier: PRE-T1127
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1094
+  name: Discover target logon/email address format
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1032
+  technique_identifier: PRE-T1032
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1095
+  name: Disseminate removable media
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1156
+  technique_identifier: PRE-T1156
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1096
+  name: Distribute malicious software development tools
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1171
+  technique_identifier: PRE-T1171
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1097
+  name: Domain Generation Algorithms (DGA)
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1100
+  technique_identifier: PRE-T1100
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1098
+  name: Domain registration hijacking
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1103
+  technique_identifier: PRE-T1103
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1099
+  name: Dumpster dive
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1063
+  technique_identifier: PRE-T1063
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1100
+  name: Dynamic DNS
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1088
+  technique_identifier: PRE-T1088
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1102
+  name: Enumerate client configurations
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1039
+  technique_identifier: PRE-T1039
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1103
+  name: Enumerate externally facing software applications technologies, languages,
+    and dependencies
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1038
+  technique_identifier: PRE-T1038
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1104
+  name: Exploit public-facing application
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1154
+  technique_identifier: PRE-T1154
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1105
+  name: Fast Flux DNS
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1102
+  technique_identifier: PRE-T1102
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 950
+  name: Path Interception
+  link: https://attack.mitre.org/techniques/T1034
+  technique_identifier: T1034
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1107
+  name: Friend/Follow/Connect to targets of interest
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1121
+  technique_identifier: PRE-T1121
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1106
+  name: Friend/Follow/Connect to targets of interest
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1141
+  technique_identifier: PRE-T1141
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1108
+  name: Generate analyst intelligence requirements
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1011
+  technique_identifier: PRE-T1011
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1110
+  name: Host-based hiding techniques
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1091
+  technique_identifier: PRE-T1091
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 927
+  name: Launch Agent
+  link: https://attack.mitre.org/techniques/T1159
+  technique_identifier: T1159
+  source: mitre_attack
+  ranking_2019: 40
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 928
+  name: Launch Daemon
+  link: https://attack.mitre.org/techniques/T1160
+  technique_identifier: T1160
+  source: mitre_attack
+  ranking_2019: 33
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 929
+  name: Launchctl
+  link: https://attack.mitre.org/techniques/T1152
+  technique_identifier: T1152
+  source: mitre_attack
+  ranking_2019: 52
+  source_type: enterprise
+  ranking_2020: 89
+  technique_detail_link:
+- id: 1111
+  name: Human performs requested action of physical nature
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1162
+  technique_identifier: PRE-T1162
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1206
+  name: Man in the Browser
+  link: https://attack.mitre.org/techniques/T1185
+  technique_identifier: T1185
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 936
+  name: Multi-Stage Channels
+  link: https://attack.mitre.org/techniques/T1104
+  technique_identifier: T1104
+  source: mitre_attack
+  ranking_2019: 65
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 938
+  name: Multilayer Encryption
+  link: https://attack.mitre.org/techniques/T1079
+  technique_identifier: T1079
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1112
+  name: Identify analyst level gaps
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1010
+  technique_identifier: PRE-T1010
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1113
+  name: Identify business processes/tempo
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1057
+  technique_identifier: PRE-T1057
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 889
+  name: Data Transfer Size Limits
+  link: https://attack.mitre.org/techniques/T1030
+  technique_identifier: T1030
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1025
+  name: Analyze application security posture
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1070
+  technique_identifier: PRE-T1070
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1115
+  name: Identify business relationships
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1049
+  technique_identifier: PRE-T1049
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1114
+  name: Identify business relationships
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1060
+  technique_identifier: PRE-T1060
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1116
+  name: Identify gap areas
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1002
+  technique_identifier: PRE-T1002
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 979
+  name: Service Execution
+  link: https://attack.mitre.org/techniques/T1035
+  technique_identifier: T1035
+  source: mitre_attack
+  ranking_2019: 13
+  source_type: enterprise
+  ranking_2020: 12
+  technique_detail_link:
+- id: 1117
+  name: Identify groups/roles
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1047
+  technique_identifier: PRE-T1047
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1118
+  name: Identify job postings and needs/gaps
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1044
+  technique_identifier: PRE-T1044
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1119
+  name: Identify job postings and needs/gaps
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1055
+  technique_identifier: PRE-T1055
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1046
+  name: Authorized user performs requested cyber action
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1163
+  technique_identifier: PRE-T1163
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1120
+  name: Identify job postings and needs/gaps
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1025
+  technique_identifier: PRE-T1025
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1121
+  name: Identify people of interest
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1046
+  technique_identifier: PRE-T1046
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1122
+  name: Identify personnel with an authority/privilege
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1048
+  technique_identifier: PRE-T1048
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 941
+  name: Network Service Scanning
+  link: https://attack.mitre.org/techniques/T1046
+  technique_identifier: T1046
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1245
+  name: Spearphishing for Information
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1174
+  technique_identifier: PRE-T1174
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1123
+  name: Identify resources required to build capabilities
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1125
+  technique_identifier: PRE-T1125
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1125
+  name: Identify sensitive personnel information
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1051
+  technique_identifier: PRE-T1051
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1128
+  name: Identify supply chains
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1053
+  technique_identifier: PRE-T1053
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1126
+  name: Identify supply chains
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1023
+  technique_identifier: PRE-T1023
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1127
+  name: Identify supply chains
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1042
+  technique_identifier: PRE-T1042
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1066
+  name: Conduct social engineering or HUMINT operation
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1153
+  technique_identifier: PRE-T1153
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1129
+  name: Identify technology usage patterns
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1041
+  technique_identifier: PRE-T1041
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1130
+  name: Identify vulnerabilities in third-party software libraries
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1166
+  technique_identifier: PRE-T1166
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1131
+  name: Identify web defensive services
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1033
+  technique_identifier: PRE-T1033
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1132
+  name: Install and configure hardware, network, and systems
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1113
+  technique_identifier: PRE-T1113
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1133
+  name: Leverage compromised 3rd party resources
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1152
+  technique_identifier: PRE-T1152
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1134
+  name: Map network topology
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1029
+  technique_identifier: PRE-T1029
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1135
+  name: Mine social media
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1050
+  technique_identifier: PRE-T1050
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1136
+  name: Mine technical blogs/forums
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1034
+  technique_identifier: PRE-T1034
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1137
+  name: Misattributable credentials
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1099
+  technique_identifier: PRE-T1099
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1138
+  name: Network-based hiding techniques
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1092
+  technique_identifier: PRE-T1092
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1139
+  name: Non-traditional or less attributable payment options
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1093
+  technique_identifier: PRE-T1093
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1140
+  name: OS-vendor provided communication channels
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1167
+  technique_identifier: PRE-T1167
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1141
+  name: Obfuscate infrastructure
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1086
+  technique_identifier: PRE-T1086
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1142
+  name: Obfuscate infrastructure
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1108
+  technique_identifier: PRE-T1108
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1019
+  name: Acquire and/or use 3rd party infrastructure services
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1106
+  technique_identifier: PRE-T1106
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1143
+  name: Obfuscate operational infrastructure
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1095
+  technique_identifier: PRE-T1095
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1144
+  name: Obfuscate or encrypt code
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1096
+  technique_identifier: PRE-T1096
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1145
+  name: Obfuscation or cryptography
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1090
+  technique_identifier: PRE-T1090
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1146
+  name: Obtain Apple iOS enterprise distribution key pair and certificate
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1169
+  technique_identifier: PRE-T1169
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1147
+  name: Obtain booter/stressor subscription
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1173
+  technique_identifier: PRE-T1173
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1148
+  name: Obtain domain/IP registration information
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1028
+  technique_identifier: PRE-T1028
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1149
+  name: Obtain templates/branding materials
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1058
+  technique_identifier: PRE-T1058
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1150
+  name: Obtain/re-use payloads
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1123
+  technique_identifier: PRE-T1123
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1020
+  name: Acquire and/or use 3rd party software services
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1085
+  technique_identifier: PRE-T1085
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1151
+  name: Port redirector
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1140
+  technique_identifier: PRE-T1140
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1152
+  name: Post compromise tool development
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1130
+  technique_identifier: PRE-T1130
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1153
+  name: Private whois services
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1082
+  technique_identifier: PRE-T1082
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 876
+  name: Credential Dumping
+  link: https://attack.mitre.org/techniques/T1003
+  technique_identifier: T1003
+  source: mitre_attack
+  ranking_2019: 16
+  source_type: enterprise
+  ranking_2020: 11
+  technique_detail_link: https://redcanary.com/threat-detection-report/techniques/credential-dumping/
+- id: 971
+  name: Rundll32
+  link: https://attack.mitre.org/techniques/T1085
+  technique_identifier: T1085
+  source: mitre_attack
+  ranking_2019: 5
+  source_type: enterprise
+  ranking_2020: 14
+  technique_detail_link:
+- id: 1154
+  name: Procure required equipment and software
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1112
+  technique_identifier: PRE-T1112
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1021
+  name: Acquire and/or use 3rd party software services
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1107
+  technique_identifier: PRE-T1107
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1156
+  name: Push-notification client-side exploit
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1150
+  technique_identifier: PRE-T1150
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1157
+  name: Receive KITs/KIQs and determine requirements
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1016
+  technique_identifier: PRE-T1016
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1158
+  name: Receive operator KITs/KIQs tasking
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1012
+  technique_identifier: PRE-T1012
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1159
+  name: Remote access tool development
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1128
+  technique_identifier: PRE-T1128
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1160
+  name: Replace legitimate binary with malware
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1155
+  technique_identifier: PRE-T1155
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1023
+  name: Acquire or compromise 3rd party signing certificates
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1087
+  technique_identifier: PRE-T1087
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1162
+  name: Research visibility gap of security vendors
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1067
+  technique_identifier: PRE-T1067
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1163
+  name: Review logs and residual traces
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1135
+  technique_identifier: PRE-T1135
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1164
+  name: Runtime code download and execution
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1172
+  technique_identifier: PRE-T1172
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1165
+  name: SSL certificate acquisition for domain
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1114
+  technique_identifier: PRE-T1114
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1087
+  name: Determine operational element
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1019
+  technique_identifier: PRE-T1019
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1166
+  name: SSL certificate acquisition for trust breaking
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1115
+  technique_identifier: PRE-T1115
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1167
+  name: Secure and protect infrastructure
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1094
+  technique_identifier: PRE-T1094
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1168
+  name: Shadow DNS
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1117
+  technique_identifier: PRE-T1117
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1170
+  name: Spear phishing messages with malicious links
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1146
+  technique_identifier: PRE-T1146
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1171
+  name: Spear phishing messages with text only
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1145
+  technique_identifier: PRE-T1145
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1172
+  name: Submit KITs, KIQs, and intelligence requirements
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1014
+  technique_identifier: PRE-T1014
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1016
+  name: Acquire OSINT data sets and information
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1043
+  technique_identifier: PRE-T1043
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1017
+  name: Acquire OSINT data sets and information
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1054
+  technique_identifier: PRE-T1054
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1015
+  name: Acquire OSINT data sets and information
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1024
+  technique_identifier: PRE-T1024
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1018
+  name: Acquire and/or use 3rd party infrastructure services
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1084
+  technique_identifier: PRE-T1084
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1173
+  name: Targeted client-side exploitation
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1148
+  technique_identifier: PRE-T1148
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1174
+  name: Targeted social media phishing
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1143
+  technique_identifier: PRE-T1143
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1175
+  name: Task requirements
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1017
+  technique_identifier: PRE-T1017
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1176
+  name: Test ability to evade automated mobile application security analysis performed
+    by app stores
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1170
+  technique_identifier: PRE-T1170
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1177
+  name: Test callback functionality
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1133
+  technique_identifier: PRE-T1133
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1178
+  name: Test malware in various execution environments
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1134
+  technique_identifier: PRE-T1134
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1179
+  name: Test malware to evade detection
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1136
+  technique_identifier: PRE-T1136
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1180
+  name: Test physical access
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1137
+  technique_identifier: PRE-T1137
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1181
+  name: Test signature detection
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1069
+  technique_identifier: PRE-T1069
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1182
+  name: Test signature detection for file upload/email filters
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1138
+  technique_identifier: PRE-T1138
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 1183
+  name: Unauthorized user introduces compromise delivery mechanism
+  link: https://attack.mitre.org/pre-attack/index.php/Technique/PRE-T1164
+  technique_identifier: PRE-T1164
+  source: mitre_attack
+  ranking_2019:
+  source_type:
+  ranking_2020:
+  technique_detail_link:
+- id: 893
+  name: Deobfuscate/Decode Files or Information
+  link: https://attack.mitre.org/techniques/T1140
+  technique_identifier: T1140
+  source: mitre_attack
+  ranking_2019: 4
+  source_type: enterprise
+  ranking_2020: 15
+  technique_detail_link:
+- id: 957
+  name: Process Hollowing
+  link: https://attack.mitre.org/techniques/T1093
+  technique_identifier: T1093
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020: 16
+  technique_detail_link:
+- id: 1264
+  name: Endpoint Denial of Service
+  link: https://attack.mitre.org/techniques/T1499
+  technique_identifier: T1499
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 848
+  name: Accessibility Features
+  link: https://attack.mitre.org/techniques/T1015
+  technique_identifier: T1015
+  source: mitre_attack
+  ranking_2019: 19
+  source_type: enterprise
+  ranking_2020: 17
+  technique_detail_link:
+- id: 878
+  name: Local Job Scheduling
+  link: https://attack.mitre.org/techniques/T1168
+  technique_identifier: T1168
+  source: mitre_attack
+  ranking_2019: 58
+  source_type: enterprise
+  ranking_2020: 18
+  technique_detail_link:
+- id: 1207
+  name: Mshta
+  link: https://attack.mitre.org/techniques/T1170
+  technique_identifier: T1170
+  source: mitre_attack
+  ranking_2019: 21
+  source_type: enterprise
+  ranking_2020: 19
+  technique_detail_link:
+- id: 1014
+  name: Winlogon Helper DLL
+  link: https://attack.mitre.org/techniques/T1004
+  technique_identifier: T1004
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020: 22
+  technique_detail_link:
+- id: 1244
+  name: User Execution
+  link: https://attack.mitre.org/techniques/T1204
+  technique_identifier: T1204
+  source: mitre_attack
+  ranking_2019: 15
+  source_type: enterprise
+  ranking_2020: 25
+  technique_detail_link:
+- id: 964
+  name: Regsvr32
+  link: https://attack.mitre.org/techniques/T1117
+  technique_identifier: T1117
+  source: mitre_attack
+  ranking_2019: 8
+  source_type: enterprise
+  ranking_2020: 26
+  technique_detail_link:
+- id: 888
+  name: Data Staged
+  link: https://attack.mitre.org/techniques/T1074
+  technique_identifier: T1074
+  source: mitre_attack
+  ranking_2019: 31
+  source_type: enterprise
+  ranking_2020: 27
+  technique_detail_link:
+- id: 849
+  name: Account Discovery
+  link: https://attack.mitre.org/techniques/T1087
+  technique_identifier: T1087
+  source: mitre_attack
+  ranking_2019: 17
+  source_type: enterprise
+  ranking_2020: 28
+  technique_detail_link:
+- id: 874
+  name: Connection Proxy
+  link: https://attack.mitre.org/techniques/T1090
+  technique_identifier: T1090
+  source: mitre_attack
+  ranking_2019: 9
+  source_type: enterprise
+  ranking_2020: 29
+  technique_detail_link:
+- id: 1214
+  name: BITS Jobs
+  link: https://attack.mitre.org/techniques/T1197
+  technique_identifier: T1197
+  source: mitre_attack
+  ranking_2019: 24
+  source_type: enterprise
+  ranking_2020: 31
+  technique_detail_link:
+- id: 919
+  name: Indicator Removal on Host
+  link: https://attack.mitre.org/techniques/T1070
+  technique_identifier: T1070
+  source: mitre_attack
+  ranking_2019: 28
+  source_type: enterprise
+  ranking_2020: 33
+  technique_detail_link:
+- id: 924
+  name: Keychain
+  link: https://attack.mitre.org/techniques/T1142
+  technique_identifier: T1142
+  source: mitre_attack
+  ranking_2019: 64
+  source_type: enterprise
+  ranking_2020: 35
+  technique_detail_link:
+- id: 884
+  name: Data Compressed
+  link: https://attack.mitre.org/techniques/T1002
+  technique_identifier: T1002
+  source: mitre_attack
+  ranking_2019: 37
+  source_type: enterprise
+  ranking_2020: 37
+  technique_detail_link:
+- id: 1292
+  name: XSL Script Processing
+  link: https://attack.mitre.org/techniques/T1220
+  technique_identifier: T1220
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020: 38
+  technique_detail_link:
+- id: 1247
+  name: Application Access Token
+  link: https://attack.mitre.org/techniques/T1527
+  technique_identifier: T1527
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 923
+  name: InstallUtil
+  link: https://attack.mitre.org/techniques/T1118
+  technique_identifier: T1118
+  source: mitre_attack
+  ranking_2019: 32
+  source_type: enterprise
+  ranking_2020: 39
+  technique_detail_link:
+- id: 939
+  name: NTFS File Attributes
+  link: https://attack.mitre.org/techniques/T1096
+  technique_identifier: T1096
+  source: mitre_attack
+  ranking_2019: 66
+  source_type: enterprise
+  ranking_2020: 40
+  technique_detail_link:
+- id: 1012
+  name: Windows Management Instrumentation Event Subscription
+  link: https://attack.mitre.org/techniques/T1084
+  technique_identifier: T1084
+  source: mitre_attack
+  ranking_2019: 50
+  source_type: enterprise
+  ranking_2020: 41
+  technique_detail_link:
+- id: 943
+  name: Network Share Discovery
+  link: https://attack.mitre.org/techniques/T1135
+  technique_identifier: T1135
+  source: mitre_attack
+  ranking_2019: 55
+  source_type: enterprise
+  ranking_2020: 23
+  technique_detail_link:
+- id: 856
+  name: Audio Capture
+  link: https://attack.mitre.org/techniques/T1123
+  technique_identifier: T1123
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 864
+  name: Bypass User Account Control
+  link: https://attack.mitre.org/techniques/T1088
+  technique_identifier: T1088
+  source: mitre_attack
+  ranking_2019: 30
+  source_type: enterprise
+  ranking_2020: 43
+  technique_detail_link:
+- id: 900
+  name: Exfiltration Over Command and Control Channel
+  link: https://attack.mitre.org/techniques/T1041
+  technique_identifier: T1041
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020: 49
+  technique_detail_link:
+- id: 873
+  name: Component Object Model Hijacking
+  link: https://attack.mitre.org/techniques/T1122
+  technique_identifier: T1122
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020: 102
+  technique_detail_link:
+- id: 963
+  name: Regsvcs/Regasm
+  link: https://attack.mitre.org/techniques/T1121
+  technique_identifier: T1121
+  source: mitre_attack
+  ranking_2019: 43
+  source_type: enterprise
+  ranking_2020: 50
+  technique_detail_link:
+- id: 1009
+  name: Web Shell
+  link: https://attack.mitre.org/techniques/T1100
+  technique_identifier: T1100
+  source: mitre_attack
+  ranking_2019: 34
+  source_type: enterprise
+  ranking_2020: 52
+  technique_detail_link:
+- id: 1006
+  name: Valid Accounts
+  link: https://attack.mitre.org/techniques/T1078
+  technique_identifier: T1078
+  source: mitre_attack
+  ranking_2019: 56
+  source_type: enterprise
+  ranking_2020: 56
+  technique_detail_link:
+- id: 854
+  name: Application Shimming
+  link: https://attack.mitre.org/techniques/T1138
+  technique_identifier: T1138
+  source: mitre_attack
+  ranking_2019: 39
+  source_type: enterprise
+  ranking_2020: 57
+  technique_detail_link:
+- id: 866
+  name: Clear Command History
+  link: https://attack.mitre.org/techniques/T1146
+  technique_identifier: T1146
+  source: mitre_attack
+  ranking_2019: 42
+  source_type: enterprise
+  ranking_2020: 58
+  technique_detail_link:
+- id: 1258
+  name: Disk Content Wipe
+  link: https://attack.mitre.org/techniques/T1488
+  technique_identifier: T1488
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020: 59
+  technique_detail_link:
+- id: 935
+  name: Modify Registry
+  link: https://attack.mitre.org/techniques/T1112
+  technique_identifier: T1112
+  source: mitre_attack
+  ranking_2019: 48
+  source_type: enterprise
+  ranking_2020: 60
+  technique_detail_link:
+- id: 991
+  name: Sudo
+  link: https://attack.mitre.org/techniques/T1169
+  technique_identifier: T1169
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020: 62
+  technique_detail_link:
+- id: 976
+  name: Security Software Discovery
+  link: https://attack.mitre.org/techniques/T1063
+  technique_identifier: T1063
+  source: mitre_attack
+  ranking_2019: 67
+  source_type: enterprise
+  ranking_2020: 64
+  technique_detail_link:
+- id: 1229
+  name: Kerberoasting
+  link: https://attack.mitre.org/techniques/T1208
+  technique_identifier: T1208
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020: 65
+  technique_detail_link:
+- id: 877
+  name: Credentials in Files
+  link: https://attack.mitre.org/techniques/T1081
+  technique_identifier: T1081
+  source: mitre_attack
+  ranking_2019: 60
+  source_type: enterprise
+  ranking_2020: 66
+  technique_detail_link:
+- id: 940
+  name: Netsh Helper DLL
+  link: https://attack.mitre.org/techniques/T1128
+  technique_identifier: T1128
+  source: mitre_attack
+  ranking_2019: 47
+  source_type: enterprise
+  ranking_2020: 67
+  technique_detail_link:
+- id: 965
+  name: Remote Desktop Protocol
+  link: https://attack.mitre.org/techniques/T1076
+  technique_identifier: T1076
+  source: mitre_attack
+  ranking_2019: 61
+  source_type: enterprise
+  ranking_2020: 68
+  technique_detail_link:
+- id: 890
+  name: Data from Local System
+  link: https://attack.mitre.org/techniques/T1005
+  technique_identifier: T1005
+  source: mitre_attack
+  ranking_2019: 54
+  source_type: enterprise
+  ranking_2020: 71
+  technique_detail_link:
+- id: 1001
+  name: Timestomp
+  link: https://attack.mitre.org/techniques/T1099
+  technique_identifier: T1099
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020: 72
+  technique_detail_link:
+- id: 1272
+  name: Network Denial of Service
+  link: https://attack.mitre.org/techniques/T1498
+  technique_identifier: T1498
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1000
+  name: Third-party Software
+  link: https://attack.mitre.org/techniques/T1072
+  technique_identifier: T1072
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020: 73
+  technique_detail_link:
+- id: 1013
+  name: Windows Remote Management
+  link: https://attack.mitre.org/techniques/T1028
+  technique_identifier: T1028
+  source: mitre_attack
+  ranking_2019: 44
+  source_type: enterprise
+  ranking_2020: 75
+  technique_detail_link:
+- id: 1448
+  name: Spear phishing messages with malicious links
+  link: https://attack.mitre.org/techniques/T1369
+  technique_identifier: T1369
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020: 76
+  technique_detail_link:
+- id: 1449
+  name: Spear phishing messages with text only
+  link: https://attack.mitre.org/techniques/T1368
+  technique_identifier: T1368
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020: 77
+  technique_detail_link:
+- id: 1447
+  name: Spear phishing messages with malicious attachments
+  link: https://attack.mitre.org/techniques/T1367
+  technique_identifier: T1367
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020: 78
+  technique_detail_link:
+- id: 1453
+  name: Targeted social media phishing
+  link: https://attack.mitre.org/techniques/T1366
+  technique_identifier: T1366
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020: 79
+  technique_detail_link:
+- id: 1252
+  name: Compiled HTML File
+  link: https://attack.mitre.org/techniques/T1223
+  technique_identifier: T1223
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020: 80
+  technique_detail_link:
+- id: 852
+  name: AppleScript
+  link: https://attack.mitre.org/techniques/T1155
+  technique_identifier: T1155
+  source: mitre_attack
+  ranking_2019: 29
+  source_type: enterprise
+  ranking_2020: 81
+  technique_detail_link:
+- id: 922
+  name: Install Root Certificate
+  link: https://attack.mitre.org/techniques/T1130
+  technique_identifier: T1130
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020: 84
+  technique_detail_link:
+- id: 1222
+  name: Exploit Public-Facing Application
+  link: https://attack.mitre.org/techniques/T1190
+  technique_identifier: T1190
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020: 86
+  technique_detail_link:
+- id: 981
+  name: Setuid and Setgid
+  link: https://attack.mitre.org/techniques/T1166
+  technique_identifier: T1166
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020: 88
+  technique_detail_link:
+- id: 910
+  name: Gatekeeper Bypass
+  link: https://attack.mitre.org/techniques/T1144
+  technique_identifier: T1144
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020: 90
+  technique_detail_link:
+- id: 1223
+  name: Exploitation for Client Execution
+  link: https://attack.mitre.org/techniques/T1203
+  technique_identifier: T1203
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020: 91
+  technique_detail_link:
+- id: 847
+  name: Access Token Manipulation
+  link: https://attack.mitre.org/techniques/T1134
+  technique_identifier: T1134
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020: 92
+  technique_detail_link:
+- id: 1199
+  name: Dynamic Data Exchange
+  link: https://attack.mitre.org/techniques/T1173
+  technique_identifier: T1173
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020: 93
+  technique_detail_link:
+- id: 898
+  name: Execution through Module Load
+  link: https://attack.mitre.org/techniques/T1129
+  technique_identifier: T1129
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020: 94
+  technique_detail_link:
+- id: 1255
+  name: Data Encrypted for Impact
+  link: https://attack.mitre.org/techniques/T1486
+  technique_identifier: T1486
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020: 51
+  technique_detail_link:
+- id: 858
+  name: Automated Collection
+  link: https://attack.mitre.org/techniques/T1119
+  technique_identifier: T1119
+  source: mitre_attack
+  ranking_2019: 51
+  source_type: enterprise
+  ranking_2020: 95
+  technique_detail_link:
+- id: 913
+  name: Hidden Files and Directories
+  link: https://attack.mitre.org/techniques/T1158
+  technique_identifier: T1158
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020: 96
+  technique_detail_link:
+- id: 1256
+  name: Data from Cloud Storage Object
+  link: https://attack.mitre.org/techniques/T1530
+  technique_identifier: T1530
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 879
+  name: Custom Command and Control Protocol
+  link: https://attack.mitre.org/techniques/T1094
+  technique_identifier: T1094
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020: 97
+  technique_detail_link:
+- id: 870
+  name: Commonly Used Port
+  link: https://attack.mitre.org/techniques/T1043
+  technique_identifier: T1043
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020: 99
+  technique_detail_link:
+- id: 995
+  name: System Network Connections Discovery
+  link: https://attack.mitre.org/techniques/T1049
+  technique_identifier: T1049
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020: 103
+  technique_detail_link:
+- id: 1230
+  name: Kernel Modules and Extensions
+  link: https://attack.mitre.org/techniques/T1215
+  technique_identifier: T1215
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020: 105
+  technique_detail_link:
+- id: 1205
+  name: LSASS Driver
+  link: https://attack.mitre.org/techniques/T1177
+  technique_identifier: T1177
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020: 106
+  technique_detail_link:
+- id: 885
+  name: Data Encoding
+  link: https://attack.mitre.org/techniques/T1132
+  technique_identifier: T1132
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020: 107
+  technique_detail_link:
+- id: 863
+  name: Brute Force
+  link: https://attack.mitre.org/techniques/T1110
+  technique_identifier: T1110
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020: 108
+  technique_detail_link:
+- id: 969
+  name: Replication Through Removable Media
+  link: https://attack.mitre.org/techniques/T1091
+  technique_identifier: T1091
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020: 109
+  technique_detail_link:
+- id: 993
+  name: System Information Discovery
+  link: https://attack.mitre.org/techniques/T1082
+  technique_identifier: T1082
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020: 110
+  technique_detail_link:
+- id: 948
+  name: Pass the Hash
+  link: https://attack.mitre.org/techniques/T1075
+  technique_identifier: T1075
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020: 111
+  technique_detail_link:
+- id: 901
+  name: Exfiltration Over Other Network Medium
+  link: https://attack.mitre.org/techniques/T1011
+  technique_identifier: T1011
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020: 114
+  technique_detail_link:
+- id: 887
+  name: Data Obfuscation
+  link: https://attack.mitre.org/techniques/T1001
+  technique_identifier: T1001
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020: 115
+  technique_detail_link:
+- id: 1266
+  name: File and Directory Permissions Modification
+  link: https://attack.mitre.org/techniques/T1222
+  technique_identifier: T1222
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020: 85
+  technique_detail_link:
+- id: 1433
+  name: Proxy/protocol relays
+  link: https://attack.mitre.org/techniques/T1304
+  technique_identifier: T1304
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 944
+  name: Network Sniffing
+  link: https://attack.mitre.org/techniques/T1040
+  technique_identifier: T1040
+  source: mitre_attack
+  ranking_2019: 49
+  source_type: enterprise
+  ranking_2020: 61
+  technique_detail_link:
+- id: 925
+  name: LC_LOAD_DYLIB Addition
+  link: https://attack.mitre.org/techniques/T1161
+  technique_identifier: T1161
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 926
+  name: LC_MAIN Hijacking
+  link: https://attack.mitre.org/techniques/T1149
+  technique_identifier: T1149
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1204
+  name: LLMNR/NBT-NS Poisoning and Relay
+  link: https://attack.mitre.org/techniques/T1171
+  technique_identifier: T1171
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 932
+  name: Logon Scripts
+  link: https://attack.mitre.org/techniques/T1037
+  technique_identifier: T1037
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020: 54
+  technique_detail_link:
+- id: 931
+  name: Login Item
+  link: https://attack.mitre.org/techniques/T1162
+  technique_identifier: T1162
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1290
+  name: Virtualization/Sandbox Evasion
+  link: https://attack.mitre.org/techniques/T1497
+  technique_identifier: T1497
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020: 104
+  technique_detail_link:
+- id: 934
+  name: Modify Existing Service
+  link: https://attack.mitre.org/techniques/T1031
+  technique_identifier: T1031
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1208
+  name: Multi-hop Proxy
+  link: https://attack.mitre.org/techniques/T1188
+  technique_identifier: T1188
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 937
+  name: Multiband Communication
+  link: https://attack.mitre.org/techniques/T1026
+  technique_identifier: T1026
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1385
+  name: Friend/Follow/Connect to targets of interest
+  link: https://attack.mitre.org/techniques/T1364
+  technique_identifier: T1364
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 945
+  name: New Service
+  link: https://attack.mitre.org/techniques/T1050
+  technique_identifier: T1050
+  source: mitre_attack
+  ranking_2019: 36
+  source_type: enterprise
+  ranking_2020: 47
+  technique_detail_link:
+- id: 946
+  name: Obfuscated Files or Information
+  link: https://attack.mitre.org/techniques/T1027
+  technique_identifier: T1027
+  source: mitre_attack
+  ranking_2019: 12
+  source_type: enterprise
+  ranking_2020: 30
+  technique_detail_link:
+- id: 978
+  name: Securityd Memory
+  link: https://attack.mitre.org/techniques/T1167
+  technique_identifier: T1167
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 982
+  name: Shared Webroot
+  link: https://attack.mitre.org/techniques/T1051
+  technique_identifier: T1051
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020: 113
+  technique_detail_link:
+- id: 1283
+  name: Stored Data Manipulation
+  link: https://attack.mitre.org/techniques/T1492
+  technique_identifier: T1492
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 949
+  name: Pass the Ticket
+  link: https://attack.mitre.org/techniques/T1097
+  technique_identifier: T1097
+  source: mitre_attack
+  ranking_2019: 25
+  source_type: enterprise
+  ranking_2020: 63
+  technique_detail_link:
+- id: 1231
+  name: Password Policy Discovery
+  link: https://attack.mitre.org/techniques/T1201
+  technique_identifier: T1201
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 951
+  name: Peripheral Device Discovery
+  link: https://attack.mitre.org/techniques/T1120
+  technique_identifier: T1120
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 930
+  name: Port Monitors
+  link: https://attack.mitre.org/techniques/T1013
+  technique_identifier: T1013
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1274
+  name: PowerShell Profile
+  link: https://attack.mitre.org/techniques/T1504
+  technique_identifier: T1504
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 955
+  name: Private Keys
+  link: https://attack.mitre.org/techniques/T1145
+  technique_identifier: T1145
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 956
+  name: Process Discovery
+  link: https://attack.mitre.org/techniques/T1057
+  technique_identifier: T1057
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1210
+  name: Process Doppelgänging
+  link: https://attack.mitre.org/techniques/T1186
+  technique_identifier: T1186
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 881
+  name: Process Injection
+  link: https://attack.mitre.org/techniques/T1055
+  technique_identifier: T1055
+  source: mitre_attack
+  ranking_2019: 20
+  source_type: enterprise
+  ranking_2020: 1
+  technique_detail_link: https://redcanary.com/threat-detection-report/techniques/process-injection/
+- id: 958
+  name: Query Registry
+  link: https://attack.mitre.org/techniques/T1012
+  technique_identifier: T1012
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1246
+  name: Account Access Removal
+  link: https://attack.mitre.org/techniques/T1531
+  technique_identifier: T1531
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 959
+  name: Rc.common
+  link: https://attack.mitre.org/techniques/T1163
+  technique_identifier: T1163
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1394
+  name: Identify gap areas
+  link: https://attack.mitre.org/techniques/T1225
+  technique_identifier: T1225
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 962
+  name: Registry Run Keys / Startup Folder
+  link: https://attack.mitre.org/techniques/T1060
+  technique_identifier: T1060
+  source: mitre_attack
+  ranking_2019: 7
+  source_type: enterprise
+  ranking_2020: 24
+  technique_detail_link:
+- id: 966
+  name: Remote File Copy
+  link: https://attack.mitre.org/techniques/T1105
+  technique_identifier: T1105
+  source: mitre_attack
+  ranking_2019: 26
+  source_type: enterprise
+  ranking_2020: 5
+  technique_detail_link: https://redcanary.com/threat-detection-report/techniques/remote-file-copy/
+- id: 1233
+  name: Remote Access Tools
+  link: https://attack.mitre.org/techniques/T1219
+  technique_identifier: T1219
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 968
+  name: Remote System Discovery
+  link: https://attack.mitre.org/techniques/T1018
+  technique_identifier: T1018
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1275
+  name: Resource Hijacking
+  link: https://attack.mitre.org/techniques/T1496
+  technique_identifier: T1496
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1277
+  name: Runtime Data Manipulation
+  link: https://attack.mitre.org/techniques/T1494
+  technique_identifier: T1494
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1211
+  name: SID-History Injection
+  link: https://attack.mitre.org/techniques/T1178
+  technique_identifier: T1178
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 857
+  name: Authentication Package
+  link: https://attack.mitre.org/techniques/T1131
+  technique_identifier: T1131
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1212
+  name: SSH Hijacking
+  link: https://attack.mitre.org/techniques/T1184
+  technique_identifier: T1184
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 973
+  name: Scheduled Transfer
+  link: https://attack.mitre.org/techniques/T1029
+  technique_identifier: T1029
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1213
+  name: Screensaver
+  link: https://attack.mitre.org/techniques/T1180
+  technique_identifier: T1180
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 972
+  name: Scheduled Task
+  link: https://attack.mitre.org/techniques/T1053
+  technique_identifier: T1053
+  source: mitre_attack
+  ranking_2019: 6
+  source_type: enterprise
+  ranking_2020: 2
+  technique_detail_link: https://redcanary.com/threat-detection-report/techniques/scheduled-task/
+- id: 977
+  name: Security Support Provider
+  link: https://attack.mitre.org/techniques/T1101
+  technique_identifier: T1101
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1278
+  name: Server Software Component
+  link: https://attack.mitre.org/techniques/T1505
+  technique_identifier: T1505
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1216
+  name: CMSTP
+  link: https://attack.mitre.org/techniques/T1191
+  technique_identifier: T1191
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020: 69
+  technique_detail_link:
+- id: 980
+  name: Service Registry Permissions Weakness
+  link: https://attack.mitre.org/techniques/T1058
+  technique_identifier: T1058
+  source: mitre_attack
+  ranking_2019: 53
+  source_type: enterprise
+  ranking_2020: 87
+  technique_detail_link:
+- id: 1279
+  name: Service Stop
+  link: https://attack.mitre.org/techniques/T1489
+  technique_identifier: T1489
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 983
+  name: Shortcut Modification
+  link: https://attack.mitre.org/techniques/T1023
+  technique_identifier: T1023
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1280
+  name: Software Discovery
+  link: https://attack.mitre.org/techniques/T1518
+  technique_identifier: T1518
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 984
+  name: Software Packing
+  link: https://attack.mitre.org/techniques/T1045
+  technique_identifier: T1045
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1235
+  name: Signed Binary Proxy Execution
+  link: https://attack.mitre.org/techniques/T1218
+  technique_identifier: T1218
+  source: mitre_attack
+  ranking_2019: 35
+  source_type: enterprise
+  ranking_2020: 32
+  technique_detail_link:
+- id: 985
+  name: Source
+  link: https://attack.mitre.org/techniques/T1153
+  technique_identifier: T1153
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1238
+  name: Spearphishing Link
+  link: https://attack.mitre.org/techniques/T1192
+  technique_identifier: T1192
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1239
+  name: Spearphishing via Service
+  link: https://attack.mitre.org/techniques/T1194
+  technique_identifier: T1194
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 986
+  name: Space after Filename
+  link: https://attack.mitre.org/techniques/T1151
+  technique_identifier: T1151
+  source: mitre_attack
+  ranking_2019: 45
+  source_type: enterprise
+  ranking_2020: 101
+  technique_detail_link:
+- id: 1197
+  name: Component Object Model and Distributed COM
+  link: https://attack.mitre.org/techniques/T1175
+  technique_identifier: T1175
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020: 100
+  technique_detail_link:
+- id: 988
+  name: Standard Cryptographic Protocol
+  link: https://attack.mitre.org/techniques/T1032
+  technique_identifier: T1032
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 989
+  name: Standard Non-Application Layer Protocol
+  link: https://attack.mitre.org/techniques/T1095
+  technique_identifier: T1095
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 990
+  name: Startup Items
+  link: https://attack.mitre.org/techniques/T1165
+  technique_identifier: T1165
+  source: mitre_attack
+  ranking_2019: 62
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1378
+  name: Dynamic DNS
+  link: https://attack.mitre.org/techniques/T1311
+  technique_identifier: T1311
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1281
+  name: Steal Application Access Token
+  link: https://attack.mitre.org/techniques/T1528
+  technique_identifier: T1528
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1282
+  name: Steal Web Session Cookie
+  link: https://attack.mitre.org/techniques/T1539
+  technique_identifier: T1539
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1240
+  name: Sudo Caching
+  link: https://attack.mitre.org/techniques/T1206
+  technique_identifier: T1206
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1241
+  name: Supply Chain Compromise
+  link: https://attack.mitre.org/techniques/T1195
+  technique_identifier: T1195
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 992
+  name: System Firmware
+  link: https://attack.mitre.org/techniques/T1019
+  technique_identifier: T1019
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 994
+  name: System Network Configuration Discovery
+  link: https://attack.mitre.org/techniques/T1016
+  technique_identifier: T1016
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1254
+  name: Data Destruction
+  link: https://attack.mitre.org/techniques/T1485
+  technique_identifier: T1485
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020: 53
+  technique_detail_link:
+- id: 942
+  name: Network Share Connection Removal
+  link: https://attack.mitre.org/techniques/T1126
+  technique_identifier: T1126
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 996
+  name: System Owner/User Discovery
+  link: https://attack.mitre.org/techniques/T1033
+  technique_identifier: T1033
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 997
+  name: System Service Discovery
+  link: https://attack.mitre.org/techniques/T1007
+  technique_identifier: T1007
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 999
+  name: Taint Shared Content
+  link: https://attack.mitre.org/techniques/T1080
+  technique_identifier: T1080
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1286
+  name: Template Injection
+  link: https://attack.mitre.org/techniques/T1221
+  technique_identifier: T1221
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1242
+  name: Time Providers
+  link: https://attack.mitre.org/techniques/T1209
+  technique_identifier: T1209
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1287
+  name: Transfer Data to Cloud Account
+  link: https://attack.mitre.org/techniques/T1537
+  technique_identifier: T1537
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1002
+  name: Trap
+  link: https://attack.mitre.org/techniques/T1154
+  technique_identifier: T1154
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1003
+  name: Trusted Developer Utilities
+  link: https://attack.mitre.org/techniques/T1127
+  technique_identifier: T1127
+  source: mitre_attack
+  ranking_2019: 23
+  source_type: enterprise
+  ranking_2020: 44
+  technique_detail_link:
+- id: 1257
+  name: Defacement
+  link: https://attack.mitre.org/techniques/T1491
+  technique_identifier: T1491
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1243
+  name: Trusted Relationship
+  link: https://attack.mitre.org/techniques/T1199
+  technique_identifier: T1199
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1005
+  name: Uncommonly Used Port
+  link: https://attack.mitre.org/techniques/T1065
+  technique_identifier: T1065
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1289
+  name: Unused/Unsupported Cloud Regions
+  link: https://attack.mitre.org/techniques/T1535
+  technique_identifier: T1535
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 974
+  name: Screen Capture
+  link: https://attack.mitre.org/techniques/T1113
+  technique_identifier: T1113
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020: 55
+  technique_detail_link:
+- id: 1007
+  name: Video Capture
+  link: https://attack.mitre.org/techniques/T1125
+  technique_identifier: T1125
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1291
+  name: Web Session Cookie
+  link: https://attack.mitre.org/techniques/T1506
+  technique_identifier: T1506
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1008
+  name: Web Service
+  link: https://attack.mitre.org/techniques/T1102
+  technique_identifier: T1102
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020: 46
+  technique_detail_link:
+- id: 1293
+  name: Acquire OSINT data sets and information
+  link: https://attack.mitre.org/techniques/T1266
+  technique_identifier: T1266
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1294
+  name: Acquire OSINT data sets and information
+  link: https://attack.mitre.org/techniques/T1247
+  technique_identifier: T1247
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1295
+  name: Acquire OSINT data sets and information
+  link: https://attack.mitre.org/techniques/T1277
+  technique_identifier: T1277
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1296
+  name: Acquire and/or use 3rd party infrastructure services
+  link: https://attack.mitre.org/techniques/T1329
+  technique_identifier: T1329
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1297
+  name: Acquire and/or use 3rd party infrastructure services
+  link: https://attack.mitre.org/techniques/T1307
+  technique_identifier: T1307
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1298
+  name: Acquire and/or use 3rd party software services
+  link: https://attack.mitre.org/techniques/T1308
+  technique_identifier: T1308
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1299
+  name: Acquire and/or use 3rd party software services
+  link: https://attack.mitre.org/techniques/T1330
+  technique_identifier: T1330
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1300
+  name: Acquire or compromise 3rd party signing certificates
+  link: https://attack.mitre.org/techniques/T1310
+  technique_identifier: T1310
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1301
+  name: Acquire or compromise 3rd party signing certificates
+  link: https://attack.mitre.org/techniques/T1332
+  technique_identifier: T1332
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1302
+  name: Aggregate individual's digital footprint
+  link: https://attack.mitre.org/techniques/T1275
+  technique_identifier: T1275
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1304
+  name: Analyze architecture and configuration posture
+  link: https://attack.mitre.org/techniques/T1288
+  technique_identifier: T1288
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1305
+  name: Analyze business processes
+  link: https://attack.mitre.org/techniques/T1301
+  technique_identifier: T1301
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1306
+  name: Analyze data collected
+  link: https://attack.mitre.org/techniques/T1287
+  technique_identifier: T1287
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1311
+  name: Analyze presence of outsourced capabilities
+  link: https://attack.mitre.org/techniques/T1303
+  technique_identifier: T1303
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1312
+  name: Analyze social and business relationships, interests, and affiliations
+  link: https://attack.mitre.org/techniques/T1295
+  technique_identifier: T1295
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1313
+  name: Anonymity services
+  link: https://attack.mitre.org/techniques/T1306
+  technique_identifier: T1306
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1314
+  name: Assess KITs/KIQs benefits
+  link: https://attack.mitre.org/techniques/T1229
+  technique_identifier: T1229
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1315
+  name: Assess current holdings, needs, and wants
+  link: https://attack.mitre.org/techniques/T1236
+  technique_identifier: T1236
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1316
+  name: Assess leadership areas of interest
+  link: https://attack.mitre.org/techniques/T1224
+  technique_identifier: T1224
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1317
+  name: Assess opportunities created by business deals
+  link: https://attack.mitre.org/techniques/T1299
+  technique_identifier: T1299
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1318
+  name: Assess security posture of physical locations
+  link: https://attack.mitre.org/techniques/T1302
+  technique_identifier: T1302
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1319
+  name: Assess targeting options
+  link: https://attack.mitre.org/techniques/T1296
+  technique_identifier: T1296
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1320
+  name: Assess vulnerability of 3rd party vendors
+  link: https://attack.mitre.org/techniques/T1298
+  technique_identifier: T1298
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1321
+  name: Assign KITs, KIQs, and/or intelligence requirements
+  link: https://attack.mitre.org/techniques/T1238
+  technique_identifier: T1238
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1322
+  name: Assign KITs/KIQs into categories
+  link: https://attack.mitre.org/techniques/T1228
+  technique_identifier: T1228
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1323
+  name: Authentication attempt
+  link: https://attack.mitre.org/techniques/T1381
+  technique_identifier: T1381
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1324
+  name: Authorized user performs requested cyber action
+  link: https://attack.mitre.org/techniques/T1386
+  technique_identifier: T1386
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1325
+  name: Automated system performs requested action
+  link: https://attack.mitre.org/techniques/T1384
+  technique_identifier: T1384
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1326
+  name: Build and configure delivery systems
+  link: https://attack.mitre.org/techniques/T1347
+  technique_identifier: T1347
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1327
+  name: Build or acquire exploits
+  link: https://attack.mitre.org/techniques/T1349
+  technique_identifier: T1349
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1328
+  name: Build social network persona
+  link: https://attack.mitre.org/techniques/T1341
+  technique_identifier: T1341
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1329
+  name: Buy domain name
+  link: https://attack.mitre.org/techniques/T1328
+  technique_identifier: T1328
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1330
+  name: C2 protocol development
+  link: https://attack.mitre.org/techniques/T1352
+  technique_identifier: T1352
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1331
+  name: Choose pre-compromised mobile app developer account credentials or signing
+    keys
+  link: https://attack.mitre.org/techniques/T1391
+  technique_identifier: T1391
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1332
+  name: Choose pre-compromised persona and affiliated accounts
+  link: https://attack.mitre.org/techniques/T1343
+  technique_identifier: T1343
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1333
+  name: Common, high volume protocols and software
+  link: https://attack.mitre.org/techniques/T1321
+  technique_identifier: T1321
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1203
+  name: Image File Execution Options Injection
+  link: https://attack.mitre.org/techniques/T1183
+  technique_identifier: T1183
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1334
+  name: Compromise 3rd party infrastructure to support delivery
+  link: https://attack.mitre.org/techniques/T1312
+  technique_identifier: T1312
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1335
+  name: Compromise 3rd party infrastructure to support delivery
+  link: https://attack.mitre.org/techniques/T1334
+  technique_identifier: T1334
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1336
+  name: Compromise 3rd party or closed-source vulnerability/exploit information
+  link: https://attack.mitre.org/techniques/T1354
+  technique_identifier: T1354
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1337
+  name: Compromise of externally facing system
+  link: https://attack.mitre.org/techniques/T1388
+  technique_identifier: T1388
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1338
+  name: Conduct active scanning
+  link: https://attack.mitre.org/techniques/T1254
+  technique_identifier: T1254
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1339
+  name: Conduct cost/benefit analysis
+  link: https://attack.mitre.org/techniques/T1226
+  technique_identifier: T1226
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1340
+  name: Conduct passive scanning
+  link: https://attack.mitre.org/techniques/T1253
+  technique_identifier: T1253
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1270
+  name: Inhibit System Recovery
+  link: https://attack.mitre.org/techniques/T1490
+  technique_identifier: T1490
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020: 42
+  technique_detail_link:
+- id: 1341
+  name: Conduct social engineering
+  link: https://attack.mitre.org/techniques/T1279
+  technique_identifier: T1279
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1342
+  name: Conduct social engineering
+  link: https://attack.mitre.org/techniques/T1268
+  technique_identifier: T1268
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1343
+  name: Conduct social engineering
+  link: https://attack.mitre.org/techniques/T1249
+  technique_identifier: T1249
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1344
+  name: Conduct social engineering or HUMINT operation
+  link: https://attack.mitre.org/techniques/T1376
+  technique_identifier: T1376
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1345
+  name: Confirmation of launched compromise achieved
+  link: https://attack.mitre.org/techniques/T1383
+  technique_identifier: T1383
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1346
+  name: Create backup infrastructure
+  link: https://attack.mitre.org/techniques/T1339
+  technique_identifier: T1339
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1347
+  name: Create custom payloads
+  link: https://attack.mitre.org/techniques/T1345
+  technique_identifier: T1345
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1349
+  name: Create infected removable media
+  link: https://attack.mitre.org/techniques/T1355
+  technique_identifier: T1355
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1350
+  name: Create strategic plan
+  link: https://attack.mitre.org/techniques/T1231
+  technique_identifier: T1231
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1351
+  name: Credential pharming
+  link: https://attack.mitre.org/techniques/T1374
+  technique_identifier: T1374
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1352
+  name: DNS poisoning
+  link: https://attack.mitre.org/techniques/T1382
+  technique_identifier: T1382
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1353
+  name: DNSCalc
+  link: https://attack.mitre.org/techniques/T1324
+  technique_identifier: T1324
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1354
+  name: Data Hiding
+  link: https://attack.mitre.org/techniques/T1320
+  technique_identifier: T1320
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1355
+  name: Deploy exploit using advertising
+  link: https://attack.mitre.org/techniques/T1380
+  technique_identifier: T1380
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1356
+  name: Derive intelligence requirements
+  link: https://attack.mitre.org/techniques/T1230
+  technique_identifier: T1230
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1357
+  name: Determine 3rd party infrastructure services
+  link: https://attack.mitre.org/techniques/T1284
+  technique_identifier: T1284
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1358
+  name: Determine 3rd party infrastructure services
+  link: https://attack.mitre.org/techniques/T1260
+  technique_identifier: T1260
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1359
+  name: Determine approach/attack vector
+  link: https://attack.mitre.org/techniques/T1245
+  technique_identifier: T1245
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1360
+  name: Determine centralization of IT management
+  link: https://attack.mitre.org/techniques/T1285
+  technique_identifier: T1285
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1361
+  name: Determine domain and IP address space
+  link: https://attack.mitre.org/techniques/T1250
+  technique_identifier: T1250
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1362
+  name: Determine external network trust dependencies
+  link: https://attack.mitre.org/techniques/T1259
+  technique_identifier: T1259
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1363
+  name: Determine firmware version
+  link: https://attack.mitre.org/techniques/T1258
+  technique_identifier: T1258
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1364
+  name: Determine highest level tactical element
+  link: https://attack.mitre.org/techniques/T1243
+  technique_identifier: T1243
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1365
+  name: Determine operational element
+  link: https://attack.mitre.org/techniques/T1242
+  technique_identifier: T1242
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1366
+  name: Determine physical locations
+  link: https://attack.mitre.org/techniques/T1282
+  technique_identifier: T1282
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1367
+  name: Determine secondary level tactical element
+  link: https://attack.mitre.org/techniques/T1244
+  technique_identifier: T1244
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1368
+  name: Determine strategic target
+  link: https://attack.mitre.org/techniques/T1241
+  technique_identifier: T1241
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1369
+  name: Develop KITs/KIQs
+  link: https://attack.mitre.org/techniques/T1227
+  technique_identifier: T1227
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1370
+  name: Develop social network persona digital footprint
+  link: https://attack.mitre.org/techniques/T1342
+  technique_identifier: T1342
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1371
+  name: Discover new exploits and monitor exploit-provider forums
+  link: https://attack.mitre.org/techniques/T1350
+  technique_identifier: T1350
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1372
+  name: Discover target logon/email address format
+  link: https://attack.mitre.org/techniques/T1255
+  technique_identifier: T1255
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1373
+  name: Disseminate removable media
+  link: https://attack.mitre.org/techniques/T1379
+  technique_identifier: T1379
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1273
+  name: Parent PID Spoofing
+  link: https://attack.mitre.org/techniques/T1502
+  technique_identifier: T1502
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1209
+  name: Password Filter DLL
+  link: https://attack.mitre.org/techniques/T1174
+  technique_identifier: T1174
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1374
+  name: Distribute malicious software development tools
+  link: https://attack.mitre.org/techniques/T1394
+  technique_identifier: T1394
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1375
+  name: Domain Generation Algorithms (DGA)
+  link: https://attack.mitre.org/techniques/T1323
+  technique_identifier: T1323
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1376
+  name: Domain registration hijacking
+  link: https://attack.mitre.org/techniques/T1326
+  technique_identifier: T1326
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1377
+  name: Dumpster dive
+  link: https://attack.mitre.org/techniques/T1286
+  technique_identifier: T1286
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1379
+  name: Dynamic DNS
+  link: https://attack.mitre.org/techniques/T1333
+  technique_identifier: T1333
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 953
+  name: Plist Modification
+  link: https://attack.mitre.org/techniques/T1150
+  technique_identifier: T1150
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1232
+  name: Port Knocking
+  link: https://attack.mitre.org/techniques/T1205
+  technique_identifier: T1205
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1380
+  name: Enumerate client configurations
+  link: https://attack.mitre.org/techniques/T1262
+  technique_identifier: T1262
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1381
+  name: Enumerate externally facing software applications technologies, languages,
+    and dependencies
+  link: https://attack.mitre.org/techniques/T1261
+  technique_identifier: T1261
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1382
+  name: Exploit public-facing application
+  link: https://attack.mitre.org/techniques/T1377
+  technique_identifier: T1377
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1383
+  name: Fast Flux DNS
+  link: https://attack.mitre.org/techniques/T1325
+  technique_identifier: T1325
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1384
+  name: Friend/Follow/Connect to targets of interest
+  link: https://attack.mitre.org/techniques/T1344
+  technique_identifier: T1344
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1386
+  name: Generate analyst intelligence requirements
+  link: https://attack.mitre.org/techniques/T1234
+  technique_identifier: T1234
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1387
+  name: Hardware or software supply chain implant
+  link: https://attack.mitre.org/techniques/T1365
+  technique_identifier: T1365
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1388
+  name: Host-based hiding techniques
+  link: https://attack.mitre.org/techniques/T1314
+  technique_identifier: T1314
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1389
+  name: Human performs requested action of physical nature
+  link: https://attack.mitre.org/techniques/T1385
+  technique_identifier: T1385
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1390
+  name: Identify analyst level gaps
+  link: https://attack.mitre.org/techniques/T1233
+  technique_identifier: T1233
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1391
+  name: Identify business processes/tempo
+  link: https://attack.mitre.org/techniques/T1280
+  technique_identifier: T1280
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 960
+  name: Re-opened Applications
+  link: https://attack.mitre.org/techniques/T1164
+  technique_identifier: T1164
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 961
+  name: Redundant Access
+  link: https://attack.mitre.org/techniques/T1108
+  technique_identifier: T1108
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1392
+  name: Identify business relationships
+  link: https://attack.mitre.org/techniques/T1272
+  technique_identifier: T1272
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1393
+  name: Identify business relationships
+  link: https://attack.mitre.org/techniques/T1283
+  technique_identifier: T1283
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1395
+  name: Identify groups/roles
+  link: https://attack.mitre.org/techniques/T1270
+  technique_identifier: T1270
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1396
+  name: Identify job postings and needs/gaps
+  link: https://attack.mitre.org/techniques/T1248
+  technique_identifier: T1248
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1397
+  name: Identify job postings and needs/gaps
+  link: https://attack.mitre.org/techniques/T1278
+  technique_identifier: T1278
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 967
+  name: Remote Services
+  link: https://attack.mitre.org/techniques/T1021
+  technique_identifier: T1021
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020: 70
+  technique_detail_link:
+- id: 1276
+  name: Revert Cloud Instance
+  link: https://attack.mitre.org/techniques/T1536
+  technique_identifier: T1536
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 970
+  name: Rootkit
+  link: https://attack.mitre.org/techniques/T1014
+  technique_identifier: T1014
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1398
+  name: Identify job postings and needs/gaps
+  link: https://attack.mitre.org/techniques/T1267
+  technique_identifier: T1267
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1399
+  name: Identify people of interest
+  link: https://attack.mitre.org/techniques/T1269
+  technique_identifier: T1269
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1400
+  name: Identify personnel with an authority/privilege
+  link: https://attack.mitre.org/techniques/T1271
+  technique_identifier: T1271
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1401
+  name: Identify resources required to build capabilities
+  link: https://attack.mitre.org/techniques/T1348
+  technique_identifier: T1348
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1402
+  name: Identify security defensive capabilities
+  link: https://attack.mitre.org/techniques/T1263
+  technique_identifier: T1263
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1403
+  name: Identify sensitive personnel information
+  link: https://attack.mitre.org/techniques/T1274
+  technique_identifier: T1274
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1404
+  name: Identify supply chains
+  link: https://attack.mitre.org/techniques/T1276
+  technique_identifier: T1276
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1405
+  name: Identify supply chains
+  link: https://attack.mitre.org/techniques/T1246
+  technique_identifier: T1246
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1406
+  name: Identify supply chains
+  link: https://attack.mitre.org/techniques/T1265
+  technique_identifier: T1265
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1407
+  name: Identify technology usage patterns
+  link: https://attack.mitre.org/techniques/T1264
+  technique_identifier: T1264
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1408
+  name: Identify vulnerabilities in third-party software libraries
+  link: https://attack.mitre.org/techniques/T1389
+  technique_identifier: T1389
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1409
+  name: Identify web defensive services
+  link: https://attack.mitre.org/techniques/T1256
+  technique_identifier: T1256
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1410
+  name: Install and configure hardware, network, and systems
+  link: https://attack.mitre.org/techniques/T1336
+  technique_identifier: T1336
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1411
+  name: Leverage compromised 3rd party resources
+  link: https://attack.mitre.org/techniques/T1375
+  technique_identifier: T1375
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1412
+  name: Map network topology
+  link: https://attack.mitre.org/techniques/T1252
+  technique_identifier: T1252
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1413
+  name: Mine social media
+  link: https://attack.mitre.org/techniques/T1273
+  technique_identifier: T1273
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1414
+  name: Mine technical blogs/forums
+  link: https://attack.mitre.org/techniques/T1257
+  technique_identifier: T1257
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1415
+  name: Misattributable credentials
+  link: https://attack.mitre.org/techniques/T1322
+  technique_identifier: T1322
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1236
+  name: Signed Script Proxy Execution
+  link: https://attack.mitre.org/techniques/T1216
+  technique_identifier: T1216
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1416
+  name: Network-based hiding techniques
+  link: https://attack.mitre.org/techniques/T1315
+  technique_identifier: T1315
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1417
+  name: Non-traditional or less attributable payment options
+  link: https://attack.mitre.org/techniques/T1316
+  technique_identifier: T1316
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1418
+  name: OS-vendor provided communication channels
+  link: https://attack.mitre.org/techniques/T1390
+  technique_identifier: T1390
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1419
+  name: Obfuscate infrastructure
+  link: https://attack.mitre.org/techniques/T1309
+  technique_identifier: T1309
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1420
+  name: Obfuscate infrastructure
+  link: https://attack.mitre.org/techniques/T1331
+  technique_identifier: T1331
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1421
+  name: Obfuscate operational infrastructure
+  link: https://attack.mitre.org/techniques/T1318
+  technique_identifier: T1318
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1422
+  name: Obfuscate or encrypt code
+  link: https://attack.mitre.org/techniques/T1319
+  technique_identifier: T1319
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1423
+  name: Obfuscation or cryptography
+  link: https://attack.mitre.org/techniques/T1313
+  technique_identifier: T1313
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1424
+  name: Obtain Apple iOS enterprise distribution key pair and certificate
+  link: https://attack.mitre.org/techniques/T1392
+  technique_identifier: T1392
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1425
+  name: Obtain booter/stressor subscription
+  link: https://attack.mitre.org/techniques/T1396
+  technique_identifier: T1396
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 987
+  name: Standard Application Layer Protocol
+  link: https://attack.mitre.org/techniques/T1071
+  technique_identifier: T1071
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020: 98
+  technique_detail_link:
+- id: 1426
+  name: Obtain domain/IP registration information
+  link: https://attack.mitre.org/techniques/T1251
+  technique_identifier: T1251
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1427
+  name: Obtain templates/branding materials
+  link: https://attack.mitre.org/techniques/T1281
+  technique_identifier: T1281
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1428
+  name: Obtain/re-use payloads
+  link: https://attack.mitre.org/techniques/T1346
+  technique_identifier: T1346
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1429
+  name: Port redirector
+  link: https://attack.mitre.org/techniques/T1363
+  technique_identifier: T1363
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1430
+  name: Post compromise tool development
+  link: https://attack.mitre.org/techniques/T1353
+  technique_identifier: T1353
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1431
+  name: Private whois services
+  link: https://attack.mitre.org/techniques/T1305
+  technique_identifier: T1305
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1432
+  name: Procure required equipment and software
+  link: https://attack.mitre.org/techniques/T1335
+  technique_identifier: T1335
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1434
+  name: Push-notification client-side exploit
+  link: https://attack.mitre.org/techniques/T1373
+  technique_identifier: T1373
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1435
+  name: Receive KITs/KIQs and determine requirements
+  link: https://attack.mitre.org/techniques/T1239
+  technique_identifier: T1239
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1436
+  name: Receive operator KITs/KIQs tasking
+  link: https://attack.mitre.org/techniques/T1235
+  technique_identifier: T1235
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1437
+  name: Remote access tool development
+  link: https://attack.mitre.org/techniques/T1351
+  technique_identifier: T1351
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1438
+  name: Replace legitimate binary with malware
+  link: https://attack.mitre.org/techniques/T1378
+  technique_identifier: T1378
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1439
+  name: Research relevant vulnerabilities/CVEs
+  link: https://attack.mitre.org/techniques/T1291
+  technique_identifier: T1291
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1440
+  name: Research visibility gap of security vendors
+  link: https://attack.mitre.org/techniques/T1290
+  technique_identifier: T1290
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1441
+  name: Review logs and residual traces
+  link: https://attack.mitre.org/techniques/T1358
+  technique_identifier: T1358
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1442
+  name: Runtime code download and execution
+  link: https://attack.mitre.org/techniques/T1395
+  technique_identifier: T1395
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1443
+  name: SSL certificate acquisition for domain
+  link: https://attack.mitre.org/techniques/T1337
+  technique_identifier: T1337
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1444
+  name: SSL certificate acquisition for trust breaking
+  link: https://attack.mitre.org/techniques/T1338
+  technique_identifier: T1338
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1445
+  name: Secure and protect infrastructure
+  link: https://attack.mitre.org/techniques/T1317
+  technique_identifier: T1317
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1446
+  name: Shadow DNS
+  link: https://attack.mitre.org/techniques/T1340
+  technique_identifier: T1340
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1450
+  name: Spearphishing for Information
+  link: https://attack.mitre.org/techniques/T1397
+  technique_identifier: T1397
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1451
+  name: Submit KITs, KIQs, and intelligence requirements
+  link: https://attack.mitre.org/techniques/T1237
+  technique_identifier: T1237
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1452
+  name: Targeted client-side exploitation
+  link: https://attack.mitre.org/techniques/T1371
+  technique_identifier: T1371
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1454
+  name: Task requirements
+  link: https://attack.mitre.org/techniques/T1240
+  technique_identifier: T1240
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1284
+  name: System Shutdown/Reboot
+  link: https://attack.mitre.org/techniques/T1529
+  technique_identifier: T1529
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 998
+  name: System Time Discovery
+  link: https://attack.mitre.org/techniques/T1124
+  technique_identifier: T1124
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1455
+  name: Test ability to evade automated mobile application security analysis performed
+    by app stores
+  link: https://attack.mitre.org/techniques/T1393
+  technique_identifier: T1393
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1456
+  name: Test callback functionality
+  link: https://attack.mitre.org/techniques/T1356
+  technique_identifier: T1356
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1285
+  name: Systemd Service
+  link: https://attack.mitre.org/techniques/T1501
+  technique_identifier: T1501
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1457
+  name: Test malware in various execution environments
+  link: https://attack.mitre.org/techniques/T1357
+  technique_identifier: T1357
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1458
+  name: Test malware to evade detection
+  link: https://attack.mitre.org/techniques/T1359
+  technique_identifier: T1359
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1459
+  name: Test physical access
+  link: https://attack.mitre.org/techniques/T1360
+  technique_identifier: T1360
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1460
+  name: Test signature detection
+  link: https://attack.mitre.org/techniques/T1292
+  technique_identifier: T1292
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1461
+  name: Test signature detection for file upload/email filters
+  link: https://attack.mitre.org/techniques/T1361
+  technique_identifier: T1361
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1463
+  name: Unconditional client-side exploitation/Injected Website/Driveby
+  link: https://attack.mitre.org/techniques/T1372
+  technique_identifier: T1372
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1465
+  name: Upload, install, and configure software/tools
+  link: https://attack.mitre.org/techniques/T1362
+  technique_identifier: T1362
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1466
+  name: Use multiple DNS infrastructures
+  link: https://attack.mitre.org/techniques/T1327
+  technique_identifier: T1327
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1308
+  name: Analyze organizational skillsets and deficiencies
+  link: https://attack.mitre.org/techniques/T1300
+  technique_identifier: T1300
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1307
+  name: Analyze hardware/software security defensive capabilities
+  link: https://attack.mitre.org/techniques/T1294
+  technique_identifier: T1294
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1309
+  name: Analyze organizational skillsets and deficiencies
+  link: https://attack.mitre.org/techniques/T1289
+  technique_identifier: T1289
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1348
+  name: Create implementation plan
+  link: https://attack.mitre.org/techniques/T1232
+  technique_identifier: T1232
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1310
+  name: Analyze organizational skillsets and deficiencies
+  link: https://attack.mitre.org/techniques/T1297
+  technique_identifier: T1297
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1288
+  name: Transmitted Data Manipulation
+  link: https://attack.mitre.org/techniques/T1493
+  technique_identifier: T1493
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1004
+  name: Two-Factor Authentication Interception
+  link: https://attack.mitre.org/techniques/T1111
+  technique_identifier: T1111
+  source: mitre_attack
+  ranking_2019:
+  source_type: enterprise
+  ranking_2020:
+  technique_detail_link:
+- id: 1303
+  name: Analyze application security posture
+  link: https://attack.mitre.org/techniques/T1293
+  technique_identifier: T1293
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1462
+  name: Unauthorized user introduces compromise delivery mechanism
+  link: https://attack.mitre.org/techniques/T1387
+  technique_identifier: T1387
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 1464
+  name: Untargeted client-side exploitation
+  link: https://attack.mitre.org/techniques/T1370
+  technique_identifier: T1370
+  source: mitre_attack
+  ranking_2019:
+  source_type: pre_attack
+  ranking_2020:
+  technique_detail_link:
+- id: 952
+  name: Permission Groups Discovery
+  link: https://attack.mitre.org/techniques/T1069
+  technique_identifier: T1069
+  source: mitre_attack
+  ranking_2019: 41
+  source_type: enterprise
+  ranking_2020: 48
+  technique_detail_link:
+- id: 954
+  name: PowerShell
+  link: https://attack.mitre.org/techniques/T1086
+  technique_identifier: T1086
+  source: mitre_attack
+  ranking_2019: 1
+  source_type: enterprise
+  ranking_2020: 4
+  technique_detail_link: https://redcanary.com/threat-detection-report/techniques/powershell/
+- id: 933
+  name: Masquerading
+  link: https://attack.mitre.org/techniques/T1036
+  technique_identifier: T1036
+  source: mitre_attack
+  ranking_2019: 11
+  source_type: enterprise
+  ranking_2020: 6
+  technique_detail_link: https://redcanary.com/threat-detection-report/techniques/masquerading/

@@ -11,7 +11,7 @@ This data illustrates how often each ATT&CK technique is leveraged in a confirme
 environments. It is an array of records that each look like this:
 
 ```
-  # a unique identifier internal to Red Canary for uniqueness 
+  # a unique identifier internal to Red Canary
   # (becomes more relevant when subtechniques are live) 
   id: 881
   
@@ -21,7 +21,7 @@ environments. It is an array of records that each look like this:
   # a link to more information about the technique, most often at `attack.mitre.org`
   link: https://attack.mitre.org/techniques/T1055
   
-  # the publicly unique technique identifier
+  # the public, unique technique identifier
   technique_identifier: T1055
   
   # the source of the technique, either `mitre_attack` or `red_canary` (used for internal 
